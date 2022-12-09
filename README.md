@@ -21,7 +21,7 @@
  
 - Navbar
   
-  ![image](https://github.com/shivamgupta8482/indegogoclone/blob/master/images/Navbar.png)
+  ![image](https://github.com/shivamgupta8482/nemconstructweek/blob/master/frontend/src/Assets/navbar.png)
  
 - Product page
  
